@@ -74,6 +74,17 @@ We cover everything from initial setup to advanced usage patterns, with real-wor
 ## 🚀 Purpose
 This is a **living resource**, updated regularly to keep up with rapid developments in agent-based programming. The aim is to build a **community-driven knowledge base and reference hub** for developers navigating this new era of software development.
 
+## 🤖 About This Repository
+
+This repository has been created using multiple AI research and development tools working together:
+
+- **Google Gemini Deep Research**: Used for sourcing and analyzing cutting-edge information on agent-based coding techniques
+- **Grok DeepSearch**: Employed for discovering the latest trends and best practices in AI-assisted development
+- **Claude Desktop**: Utilized for content organization, synthesis, and document creation
+- **Multi-Context Processing (MCP)**: Applied for maintaining consistency across numerous interconnected documents
+
+The content represents a collaborative effort between human curation and AI-powered research tools, demonstrating the potential of agent-based workflows in knowledge repository development.
+
 ---
 
 ## 📢 Contribute
