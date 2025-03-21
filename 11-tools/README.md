@@ -12,3 +12,20 @@ This section provides comprehensive guides and comparisons for the leading agent
 - Emerging tools and future directions
 
 Understanding the strengths, limitations, and optimal usage patterns of different tools is essential for selecting the right solution for specific development needs and team contexts.
+
+## Available Guides
+
+- [Cursor IDE Guide](./cursor-ide-guide.md) - Comprehensive guide to Cursor IDE features and best practices
+- [Project Rules Guide](./project-rules-guide.md) - Creating effective Project Rules in Cursor IDE
+- [AI Coding Tools Comparison](./ai-coding-tools-comparison.md) - Comparison of leading AI coding assistants
+
+## Coming Soon
+
+This section is being expanded with additional tool guides. Planned content includes:
+
+- **GitHub Copilot Guide**: Best practices for effective use of GitHub Copilot
+- **Continue Integration Guide**: Leveraging the open-source Continue tool effectively
+- **Codeium Best Practices**: Getting the most from the Codeium AI assistant
+- **Custom Tool Development**: Creating specialized tools for agent-based coding
+
+Check back soon for updates, or consider contributing to this section!
