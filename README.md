@@ -23,6 +23,7 @@ In 2025, **agent-based programming** is transforming how we build software. Inte
 
 ### Security and Deployment
 - [Secure Deployment](./07-security-safety/agent-secure-deployment.md) - Securing agent-generated code for production
+- [Web Application Production Checklist](./07-security-safety/web-application-production-checklist.md) - Comprehensive security checklist for deploying web applications
 - [CI/CD Integration](./09-deployment-scaling/cursor-cicd-integration.md) - Integrating Cursor IDE into CI/CD pipelines
 
 ## 🎯 What's Inside?
@@ -48,7 +49,7 @@ We cover everything from initial setup to advanced usage patterns, with real-wor
 ## 📖 How to Use This Guide
 - **New to agent-based coding?** Start with our [terminology guide](./terms.md) and [context management](./context-management.md) sections
 - **Looking for specific tools?** Explore our [Cursor IDE guide](./11-tools/cursor-ide-guide.md) or [tools comparison](./11-tools/ai-coding-tools-comparison.md)
-- **Concerned about security?** Check our [secure deployment](./07-security-safety/agent-secure-deployment.md) guide with practical safeguards
+- **Concerned about security?** Check our [secure deployment](./07-security-safety/agent-secure-deployment.md) and [web application security checklist](./07-security-safety/web-application-production-checklist.md) guides
 - **Need workflow integration?** See our [CI/CD integration](./09-deployment-scaling/cursor-cicd-integration.md) documentation
 
 ## 📋 Directory Structure
@@ -91,5 +92,6 @@ The content represents a collaborative effort between human curation and AI-powe
 Contributions are welcome! Have a tool recommendation, best practice tip, or real-world example to share? Open a pull request or issue and let's collaborate.
 
 ## 📋 Version History
+- **March 2025**: Added comprehensive Web Application Production Security Checklist with detailed guidelines for error handling, debug code removal, and API rate limiting
 - **March 2025**: Added comprehensive Cursor IDE coverage, YOLO mode best practices, and web application security guidelines
 - **February 2025**: Initial repository structure and core content

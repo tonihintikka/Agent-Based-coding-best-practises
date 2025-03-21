@@ -6,7 +6,8 @@ This section addresses critical security and safety considerations for agent-bas
 - Preventing prompt injection vulnerabilities
 - Managing access to sensitive codebases
 - Secure credential handling by AI agents
-- Secure deployment of agent-generated code
+- [Secure deployment of agent-generated code](agent-secure-deployment.md)
+- [Web application production security checklist](web-application-production-checklist.md)
 - Regulatory compliance considerations
 - Risk mitigation strategies
 - Protecting against exploits in agent-based workflows

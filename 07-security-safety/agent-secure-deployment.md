@@ -147,6 +147,8 @@ A development team used Cursor IDE with YOLO mode to rapidly build a customer po
 
 Agent-based coding introduces powerful capabilities for rapid development, but requires thoughtful security consideration. By implementing these security practices, development teams can confidently deploy agent-generated code to production environments while maintaining robust security postures.
 
+For a more detailed implementation guide covering specific security practices for web applications, including error handling best practices, debug code removal techniques, and advanced API rate limiting, see our [Web Application Production Security Checklist](web-application-production-checklist.md).
+
 Remember that security is an ongoing process requiring continuous attention, especially as agent capabilities and potential attack vectors evolve. Combining traditional security practices with agent-specific considerations creates a comprehensive security approach for modern development workflows.
 
 ## Resources
@@ -156,3 +158,4 @@ Remember that security is an ongoing process requiring continuous attention, esp
 - [Iterasec: Common Web Application Vulnerabilities in 2025](https://iterasec.com/blog/common-web-application-vulnerabilities/)
 - [Cursor IDE Documentation](https://docs.cursor.com/)
 - [Web Application Penetration Testing Checklist](https://www.indusface.com/blog/web-application-penetration-testing-checklist/)
+- [Our Web Application Production Security Checklist](web-application-production-checklist.md) - Comprehensive guide with detailed implementation instructions
