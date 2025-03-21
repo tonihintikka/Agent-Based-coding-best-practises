@@ -18,6 +18,7 @@ Understanding the strengths, limitations, and optimal usage patterns of differen
 - [Cursor IDE Guide](./cursor-ide-guide.md) - Comprehensive guide to Cursor IDE features and best practices
 - [Project Rules Guide](./project-rules-guide.md) - Creating effective Project Rules in Cursor IDE
 - [AI Coding Tools Comparison](./ai-coding-tools-comparison.md) - Comparison of leading AI coding assistants
+- [Reference Documentation Guide](./reference-documentation-guide.md) - Providing framework and design system documentation to Cursor
 
 ## Coming Soon
 

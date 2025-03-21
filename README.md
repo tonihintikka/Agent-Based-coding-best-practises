@@ -21,11 +21,13 @@ In 2025, **agent-based programming** is transforming how we build software. Inte
 - [Architecture Planning](./05-planning-reasoning/project-planning/02-architecture-planning.md) - Designing AI-friendly architecture
 - [Workflow Design](./05-planning-reasoning/project-planning/03-workflow-design.md) - Creating effective AI-enhanced workflows
 - [Security Planning](./05-planning-reasoning/project-planning/04-security-quality-planning.md) - Establishing security safeguards
+- [Real-World Planning Prompts](./05-planning-reasoning/project-planning/real-world-prompts.md) - Practical example prompts
 
 ### Tool Guides
 - [Cursor IDE Guide](./11-tools/cursor-ide-guide.md) - Comprehensive guide to Cursor IDE
 - [YOLO Mode Best Practices](./06-tool-use/yolo-mode-best-practices.md) - Safe usage of Cursor's autonomous mode
 - [Project Rules Guide](./11-tools/project-rules-guide.md) - Creating effective Project Rules in Cursor IDE
+- [Reference Documentation Guide](./11-tools/reference-documentation-guide.md) - Using framework documentation with Cursor
 - [AI Coding Tools Comparison](./11-tools/ai-coding-tools-comparison.md) - Comparison of leading AI coding assistants
 
 ### Security and Deployment
@@ -100,6 +102,8 @@ The content represents a collaborative effort between human curation and AI-powe
 Contributions are welcome! Have a tool recommendation, best practice tip, or real-world example to share? Open a pull request or issue and let's collaborate.
 
 ## 📋 Version History
+- **March 2025**: Added Reference Documentation Guide for providing framework guides to Cursor IDE
+- **March 2025**: Added Real-World Planning Prompts with practical examples for the HomePulse application
 - **March 2025**: Added Project Planning Guide with comprehensive resources for engineers orchestrating AI coding agents
 - **March 2025**: Added comprehensive Web Application Production Security Checklist with detailed guidelines for error handling, debug code removal, and API rate limiting
 - **March 2025**: Added comprehensive Cursor IDE coverage, YOLO mode best practices, and web application security guidelines

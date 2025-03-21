@@ -22,3 +22,4 @@ Engineers orchestrating AI coding agents need comprehensive planning approaches:
 - [Security and Quality Planning](./project-planning/04-security-quality-planning.md) - Establishing safeguards
 - [Project Kickoff](./project-planning/05-project-kickoff.md) - Launching projects effectively
 - [Troubleshooting and FAQs](./project-planning/06-troubleshooting-faqs.md) - Common challenges and solutions
+- [Real-World Planning Prompts](./project-planning/real-world-prompts.md) - Practical prompt examples

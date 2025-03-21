@@ -12,6 +12,7 @@ This guide outlines best practices for the crucial planning phase of agent-based
 4. [Security and Quality Planning](./04-security-quality-planning.md) - Establishing safeguards
 5. [Project Kickoff](./05-project-kickoff.md) - Launching your project effectively
 6. [Troubleshooting and FAQs](./06-troubleshooting-faqs.md) - Common challenges and solutions
+7. [Real-World Planning Prompts](./real-world-prompts.md) - Practical prompt examples for planning phase
 
 ## Key Principles
 
