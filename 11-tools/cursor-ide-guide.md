@@ -225,6 +225,11 @@ The older `.cursorrules` file in the project root is being phased out in favor o
 
 ## Best Practices for Agent-Based Coding with Cursor
 
+### Specialized Workflows
+
+1. **Vibe Coding Workflow**: For non-technical users or complex applications, consider using the [Vibe Coding Workflow](./vibe-coding-workflow-guide.md) with its dual-role system (Planner and Executor)
+2. **YOLO Mode Workflow**: For rapid prototyping and test-driven development, leverage [YOLO Mode](../06-tool-use/yolo-mode-best-practices.md) with appropriate safety constraints
+
 ### Effective Prompting
 
 1. **Be Specific**: Clearly define what you want the AI to do

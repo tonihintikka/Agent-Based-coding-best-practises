@@ -25,6 +25,7 @@ In 2025, **agent-based programming** is transforming how we build software. Inte
 
 ### Tool Guides
 - [Cursor IDE Guide](./11-tools/cursor-ide-guide.md) - Comprehensive guide to Cursor IDE
+- [Vibe Coding Workflow](./11-tools/vibe-coding-workflow-guide.md) - Structured approach to non-technical coding with Cursor
 - [YOLO Mode Best Practices](./06-tool-use/yolo-mode-best-practices.md) - Safe usage of Cursor's autonomous mode
 - [Project Rules Guide](./11-tools/project-rules-guide.md) - Creating effective Project Rules in Cursor IDE
 - [Reference Documentation Guide](./11-tools/reference-documentation-guide.md) - Using framework documentation with Cursor

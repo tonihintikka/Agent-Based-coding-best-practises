@@ -16,6 +16,7 @@ Understanding the strengths, limitations, and optimal usage patterns of differen
 ## Available Guides
 
 - [Cursor IDE Guide](./cursor-ide-guide.md) - Comprehensive guide to Cursor IDE features and best practices
+- [Vibe Coding Workflow Guide](./vibe-coding-workflow-guide.md) - Structured approach to non-technical coding with Cursor using a dual-role system
 - [Project Rules Guide](./project-rules-guide.md) - Creating effective Project Rules in Cursor IDE
 - [AI Coding Tools Comparison](./ai-coding-tools-comparison.md) - Comparison of leading AI coding assistants
 - [Reference Documentation Guide](./reference-documentation-guide.md) - Providing framework and design system documentation to Cursor
